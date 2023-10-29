@@ -1,4 +1,5 @@
 # Polynomials
+<<<<<<< HEAD
 
 # Polynomial Operations Project
 
@@ -72,3 +73,5 @@ Mention contributors, references, or resources that were used in developing this
 ## License
 
 Include details about the license for this project.
+=======
+>>>>>>> d3a9a516bac5f23dd6bc2999058822c97f7abb68
