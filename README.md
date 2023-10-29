@@ -36,19 +36,19 @@ The program provides a menu-driven interface for interacting with various polyno
 
 1. **Quadratic Equation Roots**
 
-   - Example Output: [Output: Quadratic Equation Roots](quadratic_roots_output.png)
+   - Example Output: [Output: Quadratic Equation Roots](imgs\quadratic_roots_output.png)
 
 2. **Addition of 2 Polynomials**
 
-   - Example Output: [Output: Addition of 2 Polynomials](addition.png)
+   - Example Output: [Output: Addition of 2 Polynomials](C:\Users\hp\OneDrive\Desktop\pp\Polynomials\imgs\addition.png)
 
 3. **Subtraction of 2 Polynomials**
 
-   - Example Output: [Output: Subtraction of 2 Polynomials](Subtraction.png)
+   - Example Output: [Output: Subtraction of 2 Polynomials](imgs\Subtraction.png)
 
 4. **Multiplication of 2 Polynomials**
 
-   - Example Output: [Output: Multiplication of 2 Polynomials](Multiplication.png)
+   - Example Output: [Output: Multiplication of 2 Polynomials](imgs\Multiplication.png)
 
 5. **Substituting Value of 'x'**
 
@@ -56,7 +56,7 @@ The program provides a menu-driven interface for interacting with various polyno
 
 6. **Derivation of Polynomial**
 
-   - Example Output: [Output: Derivation of Polynomial](derivation.png)
+   - Example Output: [Output: Derivation of Polynomial](imgs\derivation.png)
 
 7. **Exit**
-   - Example Output: [Output: Exit](exit.png)
+   - Example Output: [Output: Exit](imgs\exit.png)
