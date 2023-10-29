@@ -1,5 +1,4 @@
 # Polynomials
-<<<<<<< HEAD
 
 # Polynomial Operations Project
 
@@ -61,17 +60,3 @@ The program provides a menu-driven interface for interacting with various polyno
 
 7. **Exit**
    - Example Output: [Output: Exit](exit.png)
-
-## Instructions
-
-Provide instructions on how to use the program, set up the environment, or any other relevant information here.
-
-## Credits
-
-Mention contributors, references, or resources that were used in developing this project.
-
-## License
-
-Include details about the license for this project.
-=======
->>>>>>> d3a9a516bac5f23dd6bc2999058822c97f7abb68
